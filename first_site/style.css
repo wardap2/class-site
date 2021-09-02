@@ -1,0 +1,20 @@
+html{
+  background-color: pink;
+}
+
+p {
+  color: blue;
+  font-size: 25px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.common {color: rgb(120,40,120); border: 5px groove white; padding: 20px; margin: 40px;}
