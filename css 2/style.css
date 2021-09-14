@@ -1,0 +1,21 @@
+img {
+  max-width: 100%;
+}
+
+p {
+  font-size: 30px;
+  color: green;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: justify;
+  font-family: 'dream orphans';
+  border-radius: 30px;
+  text-shadow: 5px 5px 5px lightblue;
+}
+
+.rotate {
+  transform: translateX(10px);
+  color: lightblue;
+  display: inline-block;
+
+}
